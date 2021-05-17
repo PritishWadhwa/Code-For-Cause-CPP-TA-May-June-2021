@@ -1,0 +1,19 @@
+42324
+
+10
+
+999
+
+0-7
+
+
+# kar_98
+n = 3
+itr = 1
+j = 2
+arr: 3 2 1 
+arr: 2 3 1
+arr: 2 1 3 14234123
+
+
+ANS: asdfas sDFS ASDFAD
